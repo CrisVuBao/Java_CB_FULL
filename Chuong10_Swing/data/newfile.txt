@@ -1,0 +1,6 @@
+A01; Nguyễn A; 10000
+A01; Nguyễn B; 10000
+A01; Nguyễn C; 10000
+A01; Nguyễn D; 10000
+A01; Nguyễn Z; 10000
+
